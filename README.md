@@ -1,4 +1,5 @@
 # DogeClickBot BOT (Auto Joiner)
+A bot to automate sending "/join", joining the channel and verifying by clicking "Joined"
 
 # How to use?
 1. Install **Python 3.7+**
