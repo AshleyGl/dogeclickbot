@@ -7,10 +7,10 @@
 
 3. Install the requirements
 
-  >pip install -r requirements.txt
+   >`pip install -r requirements.txt`
 
 4. Run in command prompt
 
-  >python start.py phone_number
+   >`python start.py phone_number`
 
 5. Wait
